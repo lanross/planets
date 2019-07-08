@@ -1,11 +1,8 @@
 cold and dry, but everything is my favorite color.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 The two moons are a problem for wolfman.
->>>>>>> parent of b220fa3... abritary chnge
-=======
 
 The two moons are a problem for wolfman.
->>>>>>> parent of b220fa3... abritary chnge
+
+three planets are too much
+
